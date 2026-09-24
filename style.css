@@ -1,40 +1,7 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-textarea {
+html body textarea,
+textarea#mensagem {
     resize: none !important;
+    max-width: 100% !important;
+    min-width: 100% !important;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
