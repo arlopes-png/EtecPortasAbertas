@@ -14,8 +14,8 @@
 
 
 textarea {
-resize: none !important;
-box-sizing: border-box;
+    resize: none;
+    pointer-events: none;
 }
 
 
